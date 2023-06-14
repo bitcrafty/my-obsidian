@@ -5,7 +5,7 @@ This repo contains some settings and css snippets I use in my obsidian app.
 Work-In-Progress
 
 
-## Gradinet-lines CSS Snippet.
+## Gradient-lines CSS Snippet.
 CSS Snippet for gradient lines in obsidian.
 
 If you are bored with normal gray lines in obsidian, you can use this snippet to customize them.
