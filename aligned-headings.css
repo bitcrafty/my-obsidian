@@ -1,0 +1,104 @@
+/*If you want header-1 left aligned, you can change
+the value of text-align from center to left
+in HyperMD-header-1 and h1 css*/
+
+/*Acceptable values of text-align: center, left or right*/
+
+/*---------------------*/
+/*---Heading-1-(h1)----*/
+/*---------------------*/
+
+/* EDIT MODE */
+
+.HyperMD-header.HyperMD-header-1 {
+    text-align: center; 
+}
+
+/* PREVIEW MODE */
+
+.markdown-preview-view h1 {
+    text-align: center;
+}
+
+/*---------------------*/
+/*---Heading-2-(h2)----*/
+/*---------------------*/
+
+/* EDIT MODE */
+
+.HyperMD-header.HyperMD-header-2 {
+    text-align: center;
+}
+
+/* PREVIEW MODE */
+
+.markdown-preview-view h2 {
+    text-align: center;
+}
+
+/*---------------------*/
+/*---Heading-3-(h3)----*/
+/*---------------------*/
+
+/* EDIT MODE */
+
+.HyperMD-header.HyperMD-header-3 {
+    text-align: center;
+}
+
+/* PREVIEW MODE */
+
+.markdown-preview-view h3 {
+    text-align: center;
+}
+
+/*---------------------*/
+/*---Heading-4-(h4)----*/
+/*---------------------*/
+
+/* EDIT MODE */
+
+.HyperMD-header.HyperMD-header-4 {
+    text-align: center;
+}
+
+/* PREVIEW MODE */
+
+.markdown-preview-view h4 {
+    text-align: center;
+}
+
+/*---------------------*/
+/*---Heading-5-(h5)----*/
+/*---------------------*/
+
+/* EDIT MODE */
+
+.HyperMD-header.HyperMD-header-5 {
+    text-align: center;
+}
+
+/* PREVIEW MODE */
+
+.markdown-preview-view h5 {
+    text-align: center;
+}
+
+/*---------------------*/
+/*---Heading-6-(h6)----*/
+/*---------------------*/
+
+/* EDIT MODE */
+
+.HyperMD-header.HyperMD-header-6 {
+    text-align: center;
+}
+
+/* PREVIEW MODE */
+
+.markdown-preview-view h6 {
+    text-align: none;
+}
+
+/*---------------------*/
+
